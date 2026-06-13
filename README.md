@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Mohneesh Damade
+## 👋 Hey, 
 
 I'm a **Python Developer** and **AWS DevOps Engineer** passionate about building scalable backend systems, automating workflows, and designing reliable cloud infrastructure.
 
